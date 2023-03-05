@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 Self Taught Developer 
-<p align="right><img src="https://pbs.twimg.com/profile_images/1625465734154395650/uxOiDOjD_400x400.jpg" width="30" height="30"></p>
+<p align="right"><img src="https://pbs.twimg.com/profile_images/1625465734154395650/uxOiDOjD_400x400.jpg" width="30" height="30"></p>
 -------------------------------
 
 Been learning programming and scripting ( self taught ) . It’s a great hobby to invest your time on
