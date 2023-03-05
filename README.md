@@ -24,3 +24,4 @@ Been learning programming and scripting ( self taught ) . It’s a great hobby t
 </p>
                     
                   ### Socials
+![7DCA3196-302B-4582-8235-EBADAFA3731D](https://user-images.githubusercontent.com/115366201/222956409-4292ab07-2ef3-463d-b8c6-48a4714bdc2d.png)
