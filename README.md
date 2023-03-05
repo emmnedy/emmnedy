@@ -1,8 +1,8 @@
-![D1405D57-6603-49DF-A5B5-F1E22EE97FAC](https://user-images.githubusercontent.com/115366201/222956703-64674227-bd6c-4ed1-943a-69b513bde49d.png)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nuel Temi
 =================================================================================================================================
 
-Self Taught Developer 
+<h3 style="font-family:courier;">Self Taught Developer</h3>
 <p align="right"><img src="https://user-images.githubusercontent.com/115366201/222956409-4292ab07-2ef3-463d-b8c6-48a4714bdc2d.png" width="35" height="35"> <img src="https://user-images.githubusercontent.com/115366201/222956713-5f96b6ff-b79a-47f7-aa6a-6777fe1f53bb.png" width="35" height="35"><img src="https://pbs.twimg.com/profile_images/1625465734154395650/uxOiDOjD_400x400.jpg" width="30" height="30"></p>
 -------------------------------
 
