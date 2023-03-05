@@ -7,7 +7,7 @@ Self Taught Developer & Scripter
 Been learning programming and scripting ( self taught ) . It’s a great hobby to invest your time on
 
 *   🌍  I'm based in Africa
-*   🧠  I'm learning Front End 70% & Back End 20%
+*   🧠  I'm learning Front End 50% & Back End 30%
 *   🤝  I'm open to collaborating on Great project with opportunity to learn and acquire more programming skills
 *   ⚡  UseMemo()### Skills 
 <p align="left">
@@ -60,3 +60,4 @@ Been learning programming and scripting ( self taught ) . It’s a great hobby t
                       href="http://www.github.com/emmnedy"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=emmnedy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/emmnedy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmnedy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>### Support Me<a
                   href="https://www.buymeacoffee.com/emmnedy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+</p>
