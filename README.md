@@ -56,7 +56,6 @@ Been learning programming and scripting ( self taught ) . It’s a great hobby t
 <a href="https://www.stackoverflow.com/users/emmnedy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
                           
 <a href="https://www.twitter.com/emmnedy2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-</p>
 
 <b>My GitHub Stats</b>
 
