@@ -26,7 +26,7 @@ Been learning programming and scripting ( self taught ) . It’s a great hobby t
                     
                   ### Socials
  
-<p align="left">
+<p align="right">
 <a href="https://www.behance.com/emmnedy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
                           
 <a href="https://www.codepen.io/emmnedy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
