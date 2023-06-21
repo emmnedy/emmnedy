@@ -1,5 +1,5 @@
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nuel Temi
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My mY NaMe is >  Nuel Temi
 =================================================================================================================================
 
 <h3 style="font-family:courier;">Self Taught Developer</h3>
@@ -11,7 +11,10 @@ Been learning programming and scripting ( self taught ) . It’s a great hobby t
 *   🌍  I'm based in Africa
 *   🧠  I'm learning Front End 50% & Back End 30%
 *   🤝  I'm open to collaborating on Great project with opportunity to learn and acquire more programming skills
-*   ⚡  UseMemo()### Skills 
+*   ⚡  UseMemo()### Skills
+*   
+
+                          #####L.......
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
