@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </br> </br>
 I'm   >   Nuel Temi a SoftWare InTern S 
          </br>
-                            ALX ''''''''''
+                </br>
+                ****************************</br>
+                ALX ''''''''''
 =================================================================================================================================
 
 <h3 style="font-family:courier;">Self Taught Developer</h3>
