@@ -1,7 +1,9 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) there.
 </br> </br>
-I'm   >   Nuel Temi a SoftWare Engineering Student @ ALX ''''''''''
+I'm   >   Nuel Temi a SoftWare InTern S 
+         </br>
+                            ALX ''''''''''
 =================================================================================================================================
 
 <h3 style="font-family:courier;">Self Taught Developer</h3>
