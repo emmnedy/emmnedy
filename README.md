@@ -10,8 +10,8 @@ I'm   >   Nuel Temi a SoftWare Engineering Student @ ALX ''''''''''
 
 Been learning programming and scripting ( self taught ) . It’s a great hobby to invest your time on
 
-*   🌍  I'm based in Africa
-*   🧠  I'm learning Front End 50% & Back End 30%
+*   🌍  African
+*   🧠  I'm learning Front End 55% & Back End 30%
 *   🤝  I'm open to collaborating on Great project with opportunity to learn and acquire more programming skills
 *   ⚡  UseMemo()### Skills
 *   
